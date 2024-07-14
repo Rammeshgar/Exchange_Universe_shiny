@@ -1,6 +1,6 @@
+# Exchange Universe README
 https://sadeq.shinyapps.io/exchange_universe/
-
-# Exchange universe README
+![photo_2024-07-14_23-49-17](https://github.com/user-attachments/assets/1dce4e24-afe3-4a19-b608-bad4aaa968fe)
 
 ## Project Overview
 

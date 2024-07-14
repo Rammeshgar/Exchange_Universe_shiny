@@ -1,12 +1,12 @@
 https://sadeq.shinyapps.io/exchange_universe/
 
-#Exchange universe README
+*Exchange universe README
 
-##Project Overview
+**Project Overview
 
 The Currency Exchange Dashboard is a web application developed using R Shiny. It provides real-time information on over 170 currencies, allowing users to track exchange rates, historical trends, and perform currency conversions.
 
-##Features
+**Features
 
 Live Currency Rates: Display real-time exchange rates for various currencies.
 Historical Data: Allow users to explore historical exchange rates.
@@ -15,7 +15,7 @@ Comparing Currencies: Provide a tool That enable user to compare several curenci
 Vizualization: Providing 2D and 3D plots + table for better understanding.
 DATA Collection: Provide CSV Download Botton for costumized DATA.
 
-##Installation
+**Installation
 
 Install R and RStudio: If you haven’t already, download and install R from CRAN and RStudio from here.
 Clone the Repository: Clone this repository to your local machine using Git or download the ZIP file.

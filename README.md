@@ -19,7 +19,7 @@ https://sadeq.shinyapps.io/exchange_universe/
 ## Installation
 
 #### Install R and RStudio: If you haven’t already, download and install R from CRAN and RStudio from here.
-https://www.bing.com/ck/a?!&&p=5e6446e77e89cf4dJmltdHM9MTcyMDkxNTIwMCZpZ3VpZD0zZTljNjZmOS05ODk2LTZiNjQtMjkzNy03NWYwOTk0ZjZhOGImaW5zaWQ9NTQ2Mg&ptn=3&ver=2&hsh=3&fclid=3e9c66f9-9896-6b64-2937-75f0994f6a8b&psq=r+download+shortcut&u=a1aHR0cDovL3d3dy5yLXByb2plY3Qub3JnLw&ntb=1
+https://posit.co/download/rstudio-desktop/
 #### Clone the Repository: Clone this repository to your local machine using Git or download the ZIP file.
 #### Run the App: Open the app.R file in RStudio and click the “Run App” button.
 #### (keep in mind you need to sign in for your own API)

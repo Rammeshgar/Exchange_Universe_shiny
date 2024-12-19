@@ -16,7 +16,7 @@ https://sadeq.shinyapps.io/exchange_universe/
 #### Vizualization: Providing 2D and 3D plots + table for better understanding.
 #### DATA Collection: Provide CSV Download Botton for costumized DATA.
 
-## Installation
+## Installation (Using source code)
 
 #### Install R and RStudio: If you haven’t already, download and install R from CRAN and RStudio from here.
 https://posit.co/download/rstudio-desktop/

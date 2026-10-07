@@ -15,6 +15,29 @@ A currency atlas by [Sadeq Rezai](https://rammeshgar.github.io/), built with R S
 
 ![Exchange Universe social preview](www/social-preview.png)
 
+## Dashboard screenshots
+
+Captured during the local review on 7 October 2026. Rates and dates shown are historical examples, not current quotes.
+
+### Explore — currency movement and world atlas
+
+![Dark desktop dashboard with six currency cards, comparison chart and linked Leaflet world map](docs/screenshots/explore-dark.png)
+
+### Convert — amounts and quote context
+
+![Light desktop converter showing amount conversion, inverse quote, timestamp and currency comparison basket](docs/screenshots/convert-light.png)
+
+### Data — comparison statistics
+
+![Light desktop data view with searchable exchange-rate statistics and CSV export](docs/screenshots/data-light.png)
+
+<details>
+<summary>Mobile dashboard</summary>
+
+<img src="docs/screenshots/explore-mobile.png" width="390" alt="Mobile Explore dashboard with settings access, currency cards, comparison chart, world map and strength snapshot">
+
+</details>
+
 ## Run locally
 
 Use R 4.3.2 to reproduce the supplied dependency lock. From the repository root, in an R console:

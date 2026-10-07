@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.Renviron
+.Rhistory
+.RData
+.Rproj.user/
+rate-cache/
+runtime/
+rsconnect/
+renv/library/
+renv/staging/
+node_modules/
+*.log
+*.zip
+.superdesign/tmp/

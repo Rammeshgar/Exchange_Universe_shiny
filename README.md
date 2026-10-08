@@ -13,15 +13,15 @@ A currency atlas by [Sadeq Rezai](https://rammeshgar.github.io/), built with R S
 - Switch between 2D and optional 3D charts, expand plots/maps, save comparisons locally and share comparison links.
 - Responsive settings, light/dark themes, keyboard controls and exact-value tables complement the visual charts.
 
-![Exchange Universe social preview](www/social-preview.png)
+## Rebuilt dashboard — October 2026
+
+![Rebuilt Exchange Universe: currency cards, comparison chart and linked Leaflet world atlas](docs/screenshots/explore-dark.png)
+
+The screenshot shows the remastered app, not the original dashboard. Rates shown are historical examples from the 7 October 2026 local review.
 
 ## Dashboard screenshots
 
 Captured during the local review on 7 October 2026. Rates and dates shown are historical examples, not current quotes.
-
-### Explore — currency movement and world atlas
-
-![Dark desktop dashboard with six currency cards, comparison chart and linked Leaflet world map](docs/screenshots/explore-dark.png)
 
 ### Convert — amounts and quote context
 
